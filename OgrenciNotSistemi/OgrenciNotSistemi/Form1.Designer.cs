@@ -54,10 +54,10 @@
             this.label4 = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.button_Sonucgoster = new System.Windows.Forms.Button();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
+            this.label_gecmeSonucu = new System.Windows.Forms.Label();
+            this.label_belgeSonucu = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
+            this.label_ortalamaSonucu = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
@@ -289,10 +289,10 @@
             // groupBox4
             // 
             this.groupBox4.Controls.Add(this.button_Sonucgoster);
-            this.groupBox4.Controls.Add(this.label15);
-            this.groupBox4.Controls.Add(this.label13);
+            this.groupBox4.Controls.Add(this.label_gecmeSonucu);
+            this.groupBox4.Controls.Add(this.label_belgeSonucu);
             this.groupBox4.Controls.Add(this.label14);
-            this.groupBox4.Controls.Add(this.label11);
+            this.groupBox4.Controls.Add(this.label_ortalamaSonucu);
             this.groupBox4.Controls.Add(this.label12);
             this.groupBox4.Controls.Add(this.label10);
             this.groupBox4.Location = new System.Drawing.Point(39, 478);
@@ -310,24 +310,25 @@
             this.button_Sonucgoster.TabIndex = 1;
             this.button_Sonucgoster.Text = "Sonuçları Göster";
             this.button_Sonucgoster.UseVisualStyleBackColor = true;
+            this.button_Sonucgoster.Click += new System.EventHandler(this.button_Sonucgoster_Click);
             // 
-            // label15
+            // label_gecmeSonucu
             // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(902, 97);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(99, 16);
-            this.label15.TabIndex = 0;
-            this.label15.Text = "Geçme Sonucu";
+            this.label_gecmeSonucu.AutoSize = true;
+            this.label_gecmeSonucu.Location = new System.Drawing.Point(902, 97);
+            this.label_gecmeSonucu.Name = "label_gecmeSonucu";
+            this.label_gecmeSonucu.Size = new System.Drawing.Size(99, 16);
+            this.label_gecmeSonucu.TabIndex = 0;
+            this.label_gecmeSonucu.Text = "Geçme Sonucu";
             // 
-            // label13
+            // label_belgeSonucu
             // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(902, 59);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(91, 16);
-            this.label13.TabIndex = 0;
-            this.label13.Text = "Belge Sonucu";
+            this.label_belgeSonucu.AutoSize = true;
+            this.label_belgeSonucu.Location = new System.Drawing.Point(902, 59);
+            this.label_belgeSonucu.Name = "label_belgeSonucu";
+            this.label_belgeSonucu.Size = new System.Drawing.Size(91, 16);
+            this.label_belgeSonucu.TabIndex = 0;
+            this.label_belgeSonucu.Text = "Belge Sonucu";
             // 
             // label14
             // 
@@ -338,14 +339,14 @@
             this.label14.TabIndex = 0;
             this.label14.Text = "Geçme Durumu";
             // 
-            // label11
+            // label_ortalamaSonucu
             // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(902, 18);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(114, 16);
-            this.label11.TabIndex = 0;
-            this.label11.Text = "Ortalama_Sonucu";
+            this.label_ortalamaSonucu.AutoSize = true;
+            this.label_ortalamaSonucu.Location = new System.Drawing.Point(902, 18);
+            this.label_ortalamaSonucu.Name = "label_ortalamaSonucu";
+            this.label_ortalamaSonucu.Size = new System.Drawing.Size(114, 16);
+            this.label_ortalamaSonucu.TabIndex = 0;
+            this.label_ortalamaSonucu.Text = "Ortalama_Sonucu";
             // 
             // label12
             // 
@@ -416,10 +417,10 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.Button button_Sonucgoster;
-        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label_ortalamaSonucu;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label15;
-        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label label_gecmeSonucu;
+        private System.Windows.Forms.Label label_belgeSonucu;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label12;
     }

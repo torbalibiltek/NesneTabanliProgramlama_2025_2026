@@ -55,18 +55,25 @@ namespace OgrenciNotSistemi
             ogrenci.Ders5 = Convert.ToInt32(textBox_ders4.Text);
             ogrenci.Devamsizlik = Convert.ToDouble(textBox_devamsizlik.Text);
             */
-            int Ders1_yeni = Convert.ToInt32(textBox_ders1.Text);
-            int Ders2_yeni = Convert.ToInt32(textBox_ders2.Text);
-            int Ders3_yeni = Convert.ToInt32(textBox_ders3.Text);
-            int Ders4_yeni = Convert.ToInt32(textBox_ders4.Text);
-            int Ders5_yeni = Convert.ToInt32(textBox_ders5.Text);
+            int ders1_yeni = Convert.ToInt32(textBox_ders1.Text);
+            int ders2_yeni = Convert.ToInt32(textBox_ders2.Text);
+            int ders3_yeni = Convert.ToInt32(textBox_ders3.Text);
+            int ders4_yeni = Convert.ToInt32(textBox_ders4.Text);
+            int ders5_yeni = Convert.ToInt32(textBox_ders5.Text);
 
-            double Devamsizlik_yeni = Convert.ToDouble(textBox_devamsizlik.Text);
+            double devamsizlik_yeni = Convert.ToDouble(textBox_devamsizlik.Text);
 
-            ogrenci.OgrenciBilgiGuncelle(Ders1_yeni, Ders2_yeni, Ders3_yeni, Ders4_yeni, Ders5_yeni, Devamsizlik_yeni);
+            ogrenci.OgrenciBilgiGuncelle(ders1_yeni, ders2_yeni, ders3_yeni, ders4_yeni, ders5_yeni, devamsizlik_yeni);
 
             MessageBox.Show("Öğrenci Bilgileri Güncellendi");
 
+        }
+
+        private void button_Sonucgoster_Click(object sender, EventArgs e)
+        {
+            label_belgeSonucu.Text = ogrenci.BelgeSonucuHesapla();
+            label_ortalamaSonucu.Text = ogrenci.Ortalama.ToString();
+            label_gecmeSonucu.Text = ogrenci.GecmeSonucuHesapla();
         }
     }
 }
