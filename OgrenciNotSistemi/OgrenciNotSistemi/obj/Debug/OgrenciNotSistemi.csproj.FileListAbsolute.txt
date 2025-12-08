@@ -1,0 +1,10 @@
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.exe.config
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.exe
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\bin\Debug\OgrenciNotSistemi.pdb
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.AssemblyReference.cache
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.Form1.resources
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.Properties.Resources.resources
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.GenerateResource.cache
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.exe
+C:\Users\Hatice\Desktop\2025 - 2026 EĞİTİM ÖĞRETİM YILI\NTP\10-A\OgrenciNotSistemi\OgrenciNotSistemi\obj\Debug\OgrenciNotSistemi.pdb
