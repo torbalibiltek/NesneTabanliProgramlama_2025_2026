@@ -17,6 +17,7 @@ namespace OgrenciNotSistemi
             InitializeComponent();
         }
 
+        Ogrenci ogrenci;
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -31,6 +32,17 @@ namespace OgrenciNotSistemi
             Ogrenci yeni_ogrenci = new Ogrenci(ogrenci_adi, ogrenci_soyadi, ogrenci_numarasi);
 
             listBox_ogrenciListesi.Items.Add(yeni_ogrenci);
+        }
+
+        private void listBox_ogrenciListesi_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            ogrenci = listBox_ogrenciListesi.SelectedItem as Ogrenci;
+            textBox_ders1.Text = ogrenci.Ders1.ToString();
+            textBox_ders2.Text = ogrenci.Ders2.ToString();
+            textBox_ders3.Text = ogrenci.Ders3.ToString();
+            textBox_ders4.Text = ogrenci.Ders4.ToString();
+            textBox_ders5.Text = ogrenci.Ders5.ToString();
+            textBox_devamsizlik.Text = ogrenci.Devamsizlik.ToString();
         }
     }
 }

@@ -40,17 +40,17 @@
             this.listBox_ogrenciListesi = new System.Windows.Forms.ListBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.button_Guncelle = new System.Windows.Forms.Button();
-            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.textBox_devamsizlik = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
-            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.textBox_ders5 = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
-            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.textBox_ders4 = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBox_ders3 = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.textBox_ders2 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox_ders1 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.button_Sonucgoster = new System.Windows.Forms.Button();
@@ -156,21 +156,22 @@
             this.listBox_ogrenciListesi.Name = "listBox_ogrenciListesi";
             this.listBox_ogrenciListesi.Size = new System.Drawing.Size(335, 404);
             this.listBox_ogrenciListesi.TabIndex = 2;
+            this.listBox_ogrenciListesi.SelectedIndexChanged += new System.EventHandler(this.listBox_ogrenciListesi_SelectedIndexChanged);
             // 
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.button_Guncelle);
-            this.groupBox3.Controls.Add(this.textBox9);
+            this.groupBox3.Controls.Add(this.textBox_devamsizlik);
             this.groupBox3.Controls.Add(this.label9);
-            this.groupBox3.Controls.Add(this.textBox8);
+            this.groupBox3.Controls.Add(this.textBox_ders5);
             this.groupBox3.Controls.Add(this.label8);
-            this.groupBox3.Controls.Add(this.textBox7);
+            this.groupBox3.Controls.Add(this.textBox_ders4);
             this.groupBox3.Controls.Add(this.label7);
-            this.groupBox3.Controls.Add(this.textBox6);
+            this.groupBox3.Controls.Add(this.textBox_ders3);
             this.groupBox3.Controls.Add(this.label6);
-            this.groupBox3.Controls.Add(this.textBox5);
+            this.groupBox3.Controls.Add(this.textBox_ders2);
             this.groupBox3.Controls.Add(this.label5);
-            this.groupBox3.Controls.Add(this.textBox4);
+            this.groupBox3.Controls.Add(this.textBox_ders1);
             this.groupBox3.Controls.Add(this.label4);
             this.groupBox3.Location = new System.Drawing.Point(749, 34);
             this.groupBox3.Name = "groupBox3";
@@ -188,12 +189,12 @@
             this.button_Guncelle.Text = "Güncelle";
             this.button_Guncelle.UseVisualStyleBackColor = true;
             // 
-            // textBox9
+            // textBox_devamsizlik
             // 
-            this.textBox9.Location = new System.Drawing.Point(24, 375);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(235, 22);
-            this.textBox9.TabIndex = 3;
+            this.textBox_devamsizlik.Location = new System.Drawing.Point(24, 375);
+            this.textBox_devamsizlik.Name = "textBox_devamsizlik";
+            this.textBox_devamsizlik.Size = new System.Drawing.Size(235, 22);
+            this.textBox_devamsizlik.TabIndex = 3;
             // 
             // label9
             // 
@@ -204,12 +205,12 @@
             this.label9.TabIndex = 2;
             this.label9.Text = "Devamsızlık";
             // 
-            // textBox8
+            // textBox_ders5
             // 
-            this.textBox8.Location = new System.Drawing.Point(24, 301);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(235, 22);
-            this.textBox8.TabIndex = 3;
+            this.textBox_ders5.Location = new System.Drawing.Point(24, 301);
+            this.textBox_ders5.Name = "textBox_ders5";
+            this.textBox_ders5.Size = new System.Drawing.Size(235, 22);
+            this.textBox_ders5.TabIndex = 3;
             // 
             // label8
             // 
@@ -220,12 +221,12 @@
             this.label8.TabIndex = 2;
             this.label8.Text = "Ders5";
             // 
-            // textBox7
+            // textBox_ders4
             // 
-            this.textBox7.Location = new System.Drawing.Point(24, 231);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(235, 22);
-            this.textBox7.TabIndex = 3;
+            this.textBox_ders4.Location = new System.Drawing.Point(24, 231);
+            this.textBox_ders4.Name = "textBox_ders4";
+            this.textBox_ders4.Size = new System.Drawing.Size(235, 22);
+            this.textBox_ders4.TabIndex = 3;
             // 
             // label7
             // 
@@ -236,12 +237,12 @@
             this.label7.TabIndex = 2;
             this.label7.Text = "Ders4";
             // 
-            // textBox6
+            // textBox_ders3
             // 
-            this.textBox6.Location = new System.Drawing.Point(24, 168);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(235, 22);
-            this.textBox6.TabIndex = 3;
+            this.textBox_ders3.Location = new System.Drawing.Point(24, 168);
+            this.textBox_ders3.Name = "textBox_ders3";
+            this.textBox_ders3.Size = new System.Drawing.Size(235, 22);
+            this.textBox_ders3.TabIndex = 3;
             // 
             // label6
             // 
@@ -252,12 +253,12 @@
             this.label6.TabIndex = 2;
             this.label6.Text = "Ders3";
             // 
-            // textBox5
+            // textBox_ders2
             // 
-            this.textBox5.Location = new System.Drawing.Point(24, 97);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(235, 22);
-            this.textBox5.TabIndex = 3;
+            this.textBox_ders2.Location = new System.Drawing.Point(24, 97);
+            this.textBox_ders2.Name = "textBox_ders2";
+            this.textBox_ders2.Size = new System.Drawing.Size(235, 22);
+            this.textBox_ders2.TabIndex = 3;
             // 
             // label5
             // 
@@ -268,12 +269,12 @@
             this.label5.TabIndex = 2;
             this.label5.Text = "Ders2";
             // 
-            // textBox4
+            // textBox_ders1
             // 
-            this.textBox4.Location = new System.Drawing.Point(24, 44);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(235, 22);
-            this.textBox4.TabIndex = 3;
+            this.textBox_ders1.Location = new System.Drawing.Point(24, 44);
+            this.textBox_ders1.Name = "textBox_ders1";
+            this.textBox_ders1.Size = new System.Drawing.Size(235, 22);
+            this.textBox_ders1.TabIndex = 3;
             // 
             // label4
             // 
@@ -400,17 +401,17 @@
         private System.Windows.Forms.ListBox listBox_ogrenciListesi;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Button button_Guncelle;
-        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.TextBox textBox_devamsizlik;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.TextBox textBox8;
+        private System.Windows.Forms.TextBox textBox_ders5;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox textBox_ders4;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox textBox_ders3;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox textBox_ders2;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox textBox_ders1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.Button button_Sonucgoster;

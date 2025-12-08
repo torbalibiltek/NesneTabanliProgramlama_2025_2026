@@ -26,6 +26,12 @@ namespace OgrenciNotSistemi
             Ad = ogrenci_adi;
             Soyad = ogrenci_soyadi;
             Numara = ogrenci_numarasi;
+            Ders1 = 0; 
+            Ders2 = 0;
+            Ders3 = 0; 
+            Ders4 = 0;
+            Ders5 = 0;
+            Devamsizlik = 0;
         }
 
         public override string ToString()
