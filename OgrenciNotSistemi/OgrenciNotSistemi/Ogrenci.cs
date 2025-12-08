@@ -40,5 +40,16 @@ namespace OgrenciNotSistemi
            // return $"{Numara} numarası olan öğrencinin adı ali, soyadı veli ";
             //return Numara.ToString() + " " + Ad + " " + Soyad;
         }   
+
+        public void OgrenciBilgiGuncelle(int ders1, int ders2, int ders3, int ders4, int ders5, double devamsizlik)
+        {
+            Ders1 = ders1;
+            Ders2 = ders2;
+            Ders3 = ders3;
+            Ders4 = ders4;
+            Ders5 = ders5;
+            Devamsizlik = devamsizlik;
+        }
+
     } 
 }

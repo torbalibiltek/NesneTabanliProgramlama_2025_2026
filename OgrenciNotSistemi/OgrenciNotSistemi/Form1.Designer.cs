@@ -188,6 +188,7 @@
             this.button_Guncelle.TabIndex = 4;
             this.button_Guncelle.Text = "Güncelle";
             this.button_Guncelle.UseVisualStyleBackColor = true;
+            this.button_Guncelle.Click += new System.EventHandler(this.button_Guncelle_Click);
             // 
             // textBox_devamsizlik
             // 
