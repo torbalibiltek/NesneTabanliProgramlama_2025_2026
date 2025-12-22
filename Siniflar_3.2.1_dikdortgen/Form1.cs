@@ -22,38 +22,26 @@ namespace Siniflar_3._2._1_dikdortgen
             int a, b;
             a = Convert.ToInt16(textBox_kenar1.Text);
             b = Convert.ToInt16(textBox_kenar2.Text);
-
             Dikdortgen dikdortgen1 = new Dikdortgen(a, b);
-
             label_alan.Text = dikdortgen1.AlanHesapla().ToString();
             label_cevre.Text = dikdortgen1.CevreHesapla().ToString();
         }
     }
-
-    class Dikdortgen
+        class Dikdortgen
     {
-
         private int a, b;
         public Dikdortgen(int a, int b)
         {
             this.a = a;
             this.b = b;
-
-        }
+        }enum;
         public int AlanHesapla()
         {
             return this.a * this.b;
         }
-
         public int CevreHesapla()
         {
             return (this.a + this.b)*2;
         }
-
-
-
     }
-
-
-
 }
