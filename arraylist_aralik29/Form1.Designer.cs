@@ -40,6 +40,8 @@
             this.button_guncelle = new System.Windows.Forms.Button();
             this.button_sil = new System.Windows.Forms.Button();
             this.button_ara = new System.Windows.Forms.Button();
+            this.button_sirala = new System.Windows.Forms.Button();
+            this.button_tersine_cevir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // textBox_sehir_adi
@@ -153,11 +155,33 @@
             this.button_ara.UseVisualStyleBackColor = true;
             this.button_ara.Click += new System.EventHandler(this.button_ara_Click);
             // 
+            // button_sirala
+            // 
+            this.button_sirala.Location = new System.Drawing.Point(61, 195);
+            this.button_sirala.Name = "button_sirala";
+            this.button_sirala.Size = new System.Drawing.Size(75, 23);
+            this.button_sirala.TabIndex = 8;
+            this.button_sirala.Text = "A-Z Sırala";
+            this.button_sirala.UseVisualStyleBackColor = true;
+            this.button_sirala.Click += new System.EventHandler(this.button_sirala_Click);
+            // 
+            // button_tersine_cevir
+            // 
+            this.button_tersine_cevir.Location = new System.Drawing.Point(189, 195);
+            this.button_tersine_cevir.Name = "button_tersine_cevir";
+            this.button_tersine_cevir.Size = new System.Drawing.Size(124, 23);
+            this.button_tersine_cevir.TabIndex = 8;
+            this.button_tersine_cevir.Text = "Tersine Çevir";
+            this.button_tersine_cevir.UseVisualStyleBackColor = true;
+            this.button_tersine_cevir.Click += new System.EventHandler(this.button_tersine_cevir_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button_tersine_cevir);
+            this.Controls.Add(this.button_sirala);
             this.Controls.Add(this.button_ara);
             this.Controls.Add(this.button_sil);
             this.Controls.Add(this.button_guncelle);
@@ -191,6 +215,8 @@
         private System.Windows.Forms.Button button_guncelle;
         private System.Windows.Forms.Button button_sil;
         private System.Windows.Forms.Button button_ara;
+        private System.Windows.Forms.Button button_sirala;
+        private System.Windows.Forms.Button button_tersine_cevir;
     }
 }
 

@@ -20,6 +20,7 @@ namespace arraylist_aralik29
         ArrayList sehirler = new ArrayList();
         private void button_ekle_Click(object sender, EventArgs e)
         {sehirler.Add(textBox_sehir_adi.Text);
+            listbox_listele();
         }
         private void button_index_goster_Click(object sender, EventArgs e)
         {  int index_no = Convert.ToInt16(textBox_index_no.Text);
@@ -33,7 +34,7 @@ namespace arraylist_aralik29
             listbox_listele();
         }
         private void button_araya_ekle_Click(object sender, EventArgs e)
-        {
+        {   
             if (listBox_sehirler.SelectedIndex != -1)
                 sehirler.Insert(listBox_sehirler.SelectedIndex, textBox_sehir_adi.Text);
             listbox_listele();
@@ -61,6 +62,7 @@ namespace arraylist_aralik29
         {
             if (listBox_sehirler.SelectedIndex != -1)
                 sehirler.RemoveAt(listBox_sehirler.SelectedIndex);
+                //sehirler.Remove(listBox_sehirler.SelectedValue);
             listbox_listele();
         }
 
@@ -76,6 +78,18 @@ namespace arraylist_aralik29
             {
                 MessageBox.Show("Aranan Şehir Bulunamadı");
             }
+        }
+
+        private void button_sirala_Click(object sender, EventArgs e)
+        {
+            sehirler.Sort();
+            listbox_listele();
+        }
+
+        private void button_tersine_cevir_Click(object sender, EventArgs e)
+        {
+            sehirler.Reverse();
+            listbox_listele();
         }
     }
 }
