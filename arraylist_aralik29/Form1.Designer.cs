@@ -75,6 +75,7 @@
             this.listBox_sehirler.Name = "listBox_sehirler";
             this.listBox_sehirler.Size = new System.Drawing.Size(144, 212);
             this.listBox_sehirler.TabIndex = 3;
+            this.listBox_sehirler.SelectedIndexChanged += new System.EventHandler(this.listBox_sehirler_SelectedIndexChanged);
             // 
             // button_listele
             // 
@@ -130,6 +131,7 @@
             this.button_guncelle.TabIndex = 7;
             this.button_guncelle.Text = "Güncelle";
             this.button_guncelle.UseVisualStyleBackColor = true;
+            this.button_guncelle.Click += new System.EventHandler(this.button_guncelle_Click);
             // 
             // button_sil
             // 
@@ -139,6 +141,7 @@
             this.button_sil.TabIndex = 7;
             this.button_sil.Text = "Sil";
             this.button_sil.UseVisualStyleBackColor = true;
+            this.button_sil.Click += new System.EventHandler(this.button_sil_Click);
             // 
             // button_ara
             // 
@@ -148,6 +151,7 @@
             this.button_ara.TabIndex = 7;
             this.button_ara.Text = "Ara";
             this.button_ara.UseVisualStyleBackColor = true;
+            this.button_ara.Click += new System.EventHandler(this.button_ara_Click);
             // 
             // Form1
             // 
