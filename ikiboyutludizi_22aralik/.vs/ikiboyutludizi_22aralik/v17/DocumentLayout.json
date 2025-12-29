@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\ikiboyutludizi_22aralik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E824E77F-95A9-4F3D-BAE6-C5E7F692C0C2}|ikiboyutludizi_22aralik.csproj|c:\\users\\fatih\\desktop\\nesnetabanliprogramlama_2025_2026\\ikiboyutludizi_22aralik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E824E77F-95A9-4F3D-BAE6-C5E7F692C0C2}|ikiboyutludizi_22aralik.csproj|C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\ikiboyutludizi_22aralik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E824E77F-95A9-4F3D-BAE6-C5E7F692C0C2}|ikiboyutludizi_22aralik.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\ikiboyutludizi_22aralik\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\ikiboyutludizi_22aralik\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCQAAABJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\ikiboyutludizi_22aralik\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAMwD0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T11:49:06.171Z",
               "EditorCaption": ""
@@ -39,8 +39,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\ikiboyutludizi_22aralik\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\ikiboyutludizi_22aralik\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\ikiboyutludizi_22aralik\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T11:29:45.316Z",
               "EditorCaption": " [Design]"

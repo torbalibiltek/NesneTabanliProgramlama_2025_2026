@@ -39,7 +39,22 @@ namespace ikiboyutludizi_22aralik
 
         private void button_guncelle_Click(object sender, EventArgs e)
         {
+            if (listBox_liste.SelectedIndex == -1)
+            {
+                MessageBox.Show("Lütfen Güncellenecek Öğrenciyi Seçin");
+                return;
+            }
+            string adSoyad = textBox_adsoyad.Text;
+            int y1 = int.Parse(textBox_y1.Text);
+            int y2 = int.Parse(textBox_y2.Text);
+            int s1 = int.Parse(textBox_s1.Text);
+            int s2 = int.Parse(textBox_s2.Text);
 
+            double ort = (y1 + y2 + s1 + s2) / 4.0;
+
+            string yeniVeri = adSoyad + "|" + y1 + "," + y2 + "," + s1 + "," + s2 + "|Ort:" + ort.ToString("0.00");
+
+            listBox_liste.Items[listBox_liste.SelectedIndex] = yeniVeri;
         }
 
         private void button_ekle_Click(object sender, EventArgs e)
