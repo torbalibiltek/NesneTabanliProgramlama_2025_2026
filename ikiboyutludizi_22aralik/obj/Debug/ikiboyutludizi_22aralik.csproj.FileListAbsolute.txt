@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\bin\Debug\ikiboyutludizi_22aralik.exe.config
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\bin\Debug\ikiboyutludizi_22aralik.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\bin\Debug\ikiboyutludizi_22aralik.pdb
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\obj\Debug\ikiboyutludizi_22aralik.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\obj\Debug\ikiboyutludizi_22aralik.Form1.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\obj\Debug\ikiboyutludizi_22aralik.Properties.Resources.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\obj\Debug\ikiboyutludizi_22aralik.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\obj\Debug\ikiboyutludizi_22aralik.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\obj\Debug\ikiboyutludizi_22aralik.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\ikiboyutludizi_22aralik\obj\Debug\ikiboyutludizi_22aralik.pdb

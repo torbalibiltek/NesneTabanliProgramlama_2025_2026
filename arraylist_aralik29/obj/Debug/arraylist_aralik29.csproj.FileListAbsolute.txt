@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\bin\Debug\arraylist_aralik29.exe.config
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\bin\Debug\arraylist_aralik29.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\bin\Debug\arraylist_aralik29.pdb
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\obj\Debug\arraylist_aralik29.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\obj\Debug\arraylist_aralik29.Form1.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\obj\Debug\arraylist_aralik29.Properties.Resources.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\obj\Debug\arraylist_aralik29.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\obj\Debug\arraylist_aralik29.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\obj\Debug\arraylist_aralik29.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\arraylist_aralik29\obj\Debug\arraylist_aralik29.pdb

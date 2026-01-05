@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\bin\Debug\unite_4.6_uygulama1.exe.config
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\bin\Debug\unite_4.6_uygulama1.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\bin\Debug\unite_4.6_uygulama1.pdb
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\obj\Debug\unite_4.6_uygulama1.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\obj\Debug\unite_4._6_uygulama1.Form1.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\obj\Debug\unite_4._6_uygulama1.Properties.Resources.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\obj\Debug\unite_4.6_uygulama1.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\obj\Debug\unite_4.6_uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\obj\Debug\unite_4.6_uygulama1.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite_4.6_uygulama1\obj\Debug\unite_4.6_uygulama1.pdb

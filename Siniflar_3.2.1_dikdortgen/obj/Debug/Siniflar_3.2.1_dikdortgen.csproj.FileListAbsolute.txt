@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\bin\Debug\Siniflar_3.2.1_dikdortgen.exe.config
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\bin\Debug\Siniflar_3.2.1_dikdortgen.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\bin\Debug\Siniflar_3.2.1_dikdortgen.pdb
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\obj\Debug\Siniflar_3.2.1_dikdortgen.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\obj\Debug\Siniflar_3._2._1_dikdortgen.Form1.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\obj\Debug\Siniflar_3._2._1_dikdortgen.Properties.Resources.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\obj\Debug\Siniflar_3.2.1_dikdortgen.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\obj\Debug\Siniflar_3.2.1_dikdortgen.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\obj\Debug\Siniflar_3.2.1_dikdortgen.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\Siniflar_3.2.1_dikdortgen\obj\Debug\Siniflar_3.2.1_dikdortgen.pdb
