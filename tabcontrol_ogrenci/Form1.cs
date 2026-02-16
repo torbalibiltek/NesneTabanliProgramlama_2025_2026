@@ -29,9 +29,11 @@ namespace tabcontrol_ogrenci
 
             ogrenci = new Ogrenci(adsoyad, sube, sinif, bolum);
 
+            textBox_devamsizlik.Text = ogrenci.DevamsizlikSayisi.ToString();
+
             dataGridView1.DataSource = ogrenci.dersler;
 
-            MessageBox.Show(ogrenci.ToString());
+            MessageBox.Show("Öğrenci Oluşturuldu Ders Bilgilerini Girebilirsiniz");
 
             
             
@@ -39,8 +41,21 @@ namespace tabcontrol_ogrenci
 
         private void tabPage3_Enter(object sender, EventArgs e)
         {
+            label_sonucGoster.Text = ogrenci.ToString();
+            MessageBox.Show(ogrenci.ToString());
+        }
 
-            MessageBox.Show(ogrenci.OrtalamaHesapla().ToString());
+        private void button_dersleriKaydet_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                ogrenci.DevamsizlikSayisi = int.Parse(textBox_devamsizlik.Text);
+            } catch(FormatException)
+            {
+                MessageBox.Show("Devamsızlık yanlış girildi");
+                return;
+            }
+            ogrenci.DisiplinDurumu = checkBox_disiplin.Checked;
         }
     }
 }

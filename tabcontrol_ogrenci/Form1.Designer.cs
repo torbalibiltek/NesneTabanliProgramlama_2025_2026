@@ -41,14 +41,13 @@
             this.label1 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.button_dersleriKaydet = new System.Windows.Forms.Button();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.checkBox_disiplin = new System.Windows.Forms.CheckBox();
             this.label11 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.textBox21 = new System.Windows.Forms.TextBox();
+            this.textBox_devamsizlik = new System.Windows.Forms.TextBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.listBox1 = new System.Windows.Forms.ListBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.button_dersEkle = new System.Windows.Forms.Button();
+            this.label_sonucGoster = new System.Windows.Forms.Label();
             this.tabControl_ogrenciBilgileri.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -186,10 +185,9 @@
             this.tabPage2.Controls.Add(this.button_dersEkle);
             this.tabPage2.Controls.Add(this.dataGridView1);
             this.tabPage2.Controls.Add(this.button_dersleriKaydet);
-            this.tabPage2.Controls.Add(this.checkBox1);
+            this.tabPage2.Controls.Add(this.checkBox_disiplin);
             this.tabPage2.Controls.Add(this.label11);
-            this.tabPage2.Controls.Add(this.label10);
-            this.tabPage2.Controls.Add(this.textBox21);
+            this.tabPage2.Controls.Add(this.textBox_devamsizlik);
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
@@ -206,45 +204,37 @@
             this.button_dersleriKaydet.TabIndex = 4;
             this.button_dersleriKaydet.Text = "Dersleri Kaydet";
             this.button_dersleriKaydet.UseVisualStyleBackColor = true;
+            this.button_dersleriKaydet.Click += new System.EventHandler(this.button_dersleriKaydet_Click);
             // 
-            // checkBox1
+            // checkBox_disiplin
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(129, 257);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(80, 17);
-            this.checkBox1.TabIndex = 3;
-            this.checkBox1.Text = "checkBox1";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox_disiplin.AutoSize = true;
+            this.checkBox_disiplin.Location = new System.Drawing.Point(129, 257);
+            this.checkBox_disiplin.Name = "checkBox_disiplin";
+            this.checkBox_disiplin.Size = new System.Drawing.Size(99, 17);
+            this.checkBox_disiplin.TabIndex = 3;
+            this.checkBox_disiplin.Text = "Disiplin Durumu";
+            this.checkBox_disiplin.UseVisualStyleBackColor = true;
             // 
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(36, 291);
+            this.label11.Location = new System.Drawing.Point(47, 291);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(41, 13);
+            this.label11.Size = new System.Drawing.Size(63, 13);
             this.label11.TabIndex = 2;
-            this.label11.Text = "label10";
+            this.label11.Text = "Devamsızlık";
             // 
-            // label10
+            // textBox_devamsizlik
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(36, 262);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(41, 13);
-            this.label10.TabIndex = 2;
-            this.label10.Text = "label10";
-            // 
-            // textBox21
-            // 
-            this.textBox21.Location = new System.Drawing.Point(129, 288);
-            this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(100, 20);
-            this.textBox21.TabIndex = 1;
+            this.textBox_devamsizlik.Location = new System.Drawing.Point(129, 288);
+            this.textBox_devamsizlik.Name = "textBox_devamsizlik";
+            this.textBox_devamsizlik.Size = new System.Drawing.Size(100, 20);
+            this.textBox_devamsizlik.TabIndex = 1;
             // 
             // tabPage3
             // 
-            this.tabPage3.Controls.Add(this.listBox1);
+            this.tabPage3.Controls.Add(this.label_sonucGoster);
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
@@ -253,14 +243,6 @@
             this.tabPage3.Text = "Sonuçlar";
             this.tabPage3.UseVisualStyleBackColor = true;
             this.tabPage3.Enter += new System.EventHandler(this.tabPage3_Enter);
-            // 
-            // listBox1
-            // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(24, 150);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(710, 238);
-            this.listBox1.TabIndex = 0;
             // 
             // dataGridView1
             // 
@@ -279,6 +261,15 @@
             this.button_dersEkle.Text = "Ders Ekle";
             this.button_dersEkle.UseVisualStyleBackColor = true;
             // 
+            // label_sonucGoster
+            // 
+            this.label_sonucGoster.AutoSize = true;
+            this.label_sonucGoster.Location = new System.Drawing.Point(111, 55);
+            this.label_sonucGoster.Name = "label_sonucGoster";
+            this.label_sonucGoster.Size = new System.Drawing.Size(96, 13);
+            this.label_sonucGoster.TabIndex = 0;
+            this.label_sonucGoster.Text = "Öğrenci Bekleniyor";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -293,6 +284,7 @@
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
             this.tabPage3.ResumeLayout(false);
+            this.tabPage3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
@@ -314,13 +306,12 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button_ogrenciOlustur;
         private System.Windows.Forms.Button button_dersleriKaydet;
-        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox checkBox_disiplin;
         private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.TextBox textBox21;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.TextBox textBox_devamsizlik;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button button_dersEkle;
+        private System.Windows.Forms.Label label_sonucGoster;
     }
 }
 

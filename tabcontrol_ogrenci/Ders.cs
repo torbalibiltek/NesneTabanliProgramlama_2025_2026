@@ -15,8 +15,6 @@ namespace tabcontrol_ogrenci
         public double? puan4 { get; set; }
 
         public double? ortalama { get {
-
-
                 double toplam = 0;
                 int say = 0;
                 if (puan1.HasValue)

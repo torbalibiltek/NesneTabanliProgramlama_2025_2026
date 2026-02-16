@@ -17,13 +17,11 @@ namespace tabcontrol_ogrenci
         public string Bolumu { get; set; }          // örn: "Sayısal", "Sözel", "Eşit Ağırlık", "Meslek"
         public string Subesi { get; set; }  
         
-        public int DersSayisi { get; set; } // örn: "A", "B", "C", "Fen", "Yabancı Dil"
 
         public int DevamsizlikSayisi { get; set; }
         public bool DisiplinDurumu { get; set; }    // true = temiz / false = cezalı vs.
 
-        // 5 Ders (notları da tutmak istersen diye double olarak yaptım)
-
+        
         public BindingList<Ders> dersler { get; set; } = new BindingList<Ders>();
         // Varsayılan yapıcı (constructor)
         /*
@@ -44,7 +42,7 @@ namespace tabcontrol_ogrenci
             Subesi = sube;
 
             DevamsizlikSayisi = 0;
-            DisiplinDurumu = true;
+            DisiplinDurumu = false;
         }
 
         // Örnek: Ortalama hesaplayan metod
@@ -82,12 +80,10 @@ namespace tabcontrol_ogrenci
         public override string ToString()
         {
             return $"Ad Soyad     : {AdiSoyadi}\n" +
-                   $"Sınıf        : {Sinifi} / {Bolumu} / {Subesi}\n";// +
-                 //  $"Devamsızlık   : {DevamsizlikSayisi} gün\n" +
-                //   $"Disiplin     : {(DisiplinDurumu ? "Temiz" : "Sorunlu")}\n" +
-                //   $"Ortalama     : {OrtalamaHesapla():F2}\n" +
-                //   $"Mat: {Matematik,4}  Türkçe: {Turkce,4}  Fen: {FenBilimleri,4}\n" +
-                //   $"Sos: {SosyalBilgiler,4}  İng: {Ingilizce,4}";
+                   $"Sınıf        : {Sinifi} / {Bolumu} / {Subesi}\n" +
+                   $"Devamsızlık   : {DevamsizlikSayisi} gün\n" +
+                   $"Disiplin     : {(DisiplinDurumu ? "Sorunlu" : "Temiz")}\n" +
+                   $"Ortalama     : {OrtalamaHesapla():F2}\n";
         }
     }
 
