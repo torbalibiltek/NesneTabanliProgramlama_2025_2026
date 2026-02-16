@@ -1,0 +1,11 @@
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\bin\Debug\unite05_formUygulamasi_001.exe.config
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\bin\Debug\unite05_formUygulamasi_001.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\bin\Debug\unite05_formUygulamasi_001.pdb
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\obj\Debug\unite05_formUygulamasi_001.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\obj\Debug\unite05_formUygulamasi_001.Form1.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\obj\Debug\unite05_formUygulamasi_001.FormB.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\obj\Debug\unite05_formUygulamasi_001.Properties.Resources.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\obj\Debug\unite05_formUygulamasi_001.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\obj\Debug\unite05_formUygulamasi_001.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\obj\Debug\unite05_formUygulamasi_001.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\unite05_formUygulamasi_001\obj\Debug\unite05_formUygulamasi_001.pdb

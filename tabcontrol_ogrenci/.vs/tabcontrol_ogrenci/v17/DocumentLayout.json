@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\tabcontrol_ogrenci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE46A5F-FB3C-48C3-89C0-F648AD06F23A}|tabcontrol_ogrenci.csproj|c:\\users\\fatih\\desktop\\nesnetabanliprogramlama_2025_2026\\tabcontrol_ogrenci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE46A5F-FB3C-48C3-89C0-F648AD06F23A}|tabcontrol_ogrenci.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE46A5F-FB3C-48C3-89C0-F648AD06F23A}|tabcontrol_ogrenci.csproj|c:\\users\\fatih\\desktop\\nesnetabanliprogramlama_2025_2026\\tabcontrol_ogrenci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABE46A5F-FB3C-48C3-89C0-F648AD06F23A}|tabcontrol_ogrenci.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE46A5F-FB3C-48C3-89C0-F648AD06F23A}|tabcontrol_ogrenci.csproj|c:\\users\\fatih\\desktop\\nesnetabanliprogramlama_2025_2026\\tabcontrol_ogrenci\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE46A5F-FB3C-48C3-89C0-F648AD06F23A}|tabcontrol_ogrenci.csproj|solutionrelative:ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE46A5F-FB3C-48C3-89C0-F648AD06F23A}|tabcontrol_ogrenci.csproj|c:\\users\\fatih\\desktop\\nesnetabanliprogramlama_2025_2026\\tabcontrol_ogrenci\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE46A5F-FB3C-48C3-89C0-F648AD06F23A}|tabcontrol_ogrenci.csproj|solutionrelative:ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 394,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ders.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\tabcontrol_ogrenci\\Ders.cs",
+              "RelativeDocumentMoniker": "Ders.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\tabcontrol_ogrenci\\Ders.cs",
+              "RelativeToolTip": "Ders.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:50:03.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\tabcontrol_ogrenci\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\tabcontrol_ogrenci\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:22:34.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\tabcontrol_ogrenci\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "Ogrenci.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\tabcontrol_ogrenci\\Ogrenci.cs",
+              "RelativeToolTip": "Ogrenci.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:16:37.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\tabcontrol_ogrenci\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Fatih\\Desktop\\NesneTabanliProgramlama_2025_2026\\tabcontrol_ogrenci\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:32:11.882Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

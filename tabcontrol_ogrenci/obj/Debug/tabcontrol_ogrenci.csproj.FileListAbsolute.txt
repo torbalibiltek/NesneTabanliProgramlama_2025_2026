@@ -1,0 +1,10 @@
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\bin\Debug\tabcontrol_ogrenci.exe.config
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\bin\Debug\tabcontrol_ogrenci.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\bin\Debug\tabcontrol_ogrenci.pdb
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\obj\Debug\tabcontrol_ogrenci.csproj.AssemblyReference.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\obj\Debug\tabcontrol_ogrenci.Form1.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\obj\Debug\tabcontrol_ogrenci.Properties.Resources.resources
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\obj\Debug\tabcontrol_ogrenci.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\obj\Debug\tabcontrol_ogrenci.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\obj\Debug\tabcontrol_ogrenci.exe
+C:\Users\Fatih\Desktop\NesneTabanliProgramlama_2025_2026\tabcontrol_ogrenci\obj\Debug\tabcontrol_ogrenci.pdb
